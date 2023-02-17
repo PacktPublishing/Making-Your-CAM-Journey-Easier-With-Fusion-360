@@ -23,7 +23,6 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/Making-
 
 
 ## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
 
 **Following is what you need for this book:**
 This book is for iOS developers looking to apply TDD to build maintainable and scalable applications. Intermediate-level developers with Swift application development experience will be able to make the most out of this book. Prior experience of applying TDD to Swift applications is not required.
@@ -50,4 +49,3 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 **Fabrizio Cimo’** 
 is an Italian industrial designer and mechanical engineer that has always been passionate about 3D software, rendering, virtual reality, and open-source philosophy. In 2007, this passion led him to create his YouTube channel with lessons on several 3D design tools like Rhinoceros, Blender, Unreal Engine, Fusion 360, and Keyshot. During his second college degree, Autodesk discovered his videos and asked him to join the Student Ambassador program on Fusion 360 in order to promote the use of the software in Italy to students. After the degree he was hired as a machine designer for the manufacturing of PCB and other electronic components. Today, Fabrizio works as a mechanical designer for industrial laser cutting machines.
-

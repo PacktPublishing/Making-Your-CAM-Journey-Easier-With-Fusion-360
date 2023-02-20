@@ -40,7 +40,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ### Related products
-* Simplifying 3D Printing with OpenSCAD [[Packt]](https://www.packtpub.com/product/simplifying-3d-printing-with-openscad/9781801813174) [[Amazon]](https://www.amazon.in/Simplifying-3D-Printing-OpenSCAD-programs/dp/1801813175)
+* Simplifying 3D Printing with OpenSCAD [[Packt]](https://www.packtpub.com/product/simplifying-3d-printing-with-openscad/9781801813174) [[Amazon]](https://www.amazon.com/Simplifying-3D-Printing-OpenSCAD-programs/dp/1801813175)
 
 * 3D Printing with SketchUp - Second Edition [[Packt]](https://www.packtpub.com/product/3d-printing-with-sketchup-second-edition/9781803237350) [[Amazon]](https://www.amazon.com/3D-Printing-SketchUp-print-ready-transform/dp/180323735X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 

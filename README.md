@@ -49,3 +49,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 **Fabrizio Cimo’** 
 is an Italian industrial designer and mechanical engineer that has always been passionate about 3D software, rendering, virtual reality, and open-source philosophy. In 2007, this passion led him to create his YouTube channel with lessons on several 3D design tools like Rhinoceros, Blender, Unreal Engine, Fusion 360, and Keyshot. During his second college degree, Autodesk discovered his videos and asked him to join the Student Ambassador program on Fusion 360 in order to promote the use of the software in Italy to students. After the degree he was hired as a machine designer for the manufacturing of PCB and other electronic components. Today, Fabrizio works as a mechanical designer for industrial laser cutting machines.
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781804612576">https://packt.link/free-ebook/9781804612576 </a> </p>

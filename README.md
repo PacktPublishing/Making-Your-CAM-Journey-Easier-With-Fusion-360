@@ -1,5 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/ship-production-pytorch-system-in-a-day-train-optimize-deploy-workshop-tickets-1983348934052?aff=GitHub'><img src='https://static.packt-cdn.com/assets/images/packt+events/workshop_ashish_github.png'/></a></p>
-
 # Making your CAM journey easier with Fusion 360
 
 <a href="https://www.packtpub.com/product/making-your-cam-journey-easier-with-fusion-360/9781804612576"><img src="https://static.packt-cdn.com/products/9781804612576/cover/smaller" alt="Making your CAM journey easier with Fusion 360" height="256px" align="right"></a>
